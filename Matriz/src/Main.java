@@ -20,6 +20,5 @@ public class Main {
 
         matriz2.quantidadeLinhas();
         matriz2.quantidadeColunas();
-
     }
 }
